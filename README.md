@@ -1,5 +1,7 @@
 #NOTHING Phones Glyphs simple demo
 
+This program just play a littl animation on Nothing Phones Glyphs
+
 Just to see how to simply use Ketchum Library, as there seems to be som strange behaviour when I tried, like the toggle doesn't seems to turn off glyphs from previous frames.
 And also, the builder.buildChannel(channel: Int, light: Int) doesn't seems to be in documentation, but it's the more efficient way to be sure of wich glyphs are turned on and off.
 

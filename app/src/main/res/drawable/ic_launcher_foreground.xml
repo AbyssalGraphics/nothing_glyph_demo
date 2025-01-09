@@ -8,134 +8,120 @@
     <path
         android:fillColor="#FFFFFF"
         android:fillType="nonZero"
-        android:pathData="M44,24
-        m-5,0
-        a5,5 0 1,0 10,0
-        a5,5 0 1,0 -10,0"/>
+        android:pathData="M46,30
+        m-4,0
+        a4,4 0 1,0 8,0
+        a4,4 0 1,0 -8,0"/>
     <path
         android:fillColor="#FFFFFF"
         android:fillType="nonZero"
-        android:pathData="M54,24
-        m-5,0
-        a5,5 0 1,0 10,0
-        a5,5 0 1,0 -10,0"/>
+        android:pathData="M54,30
+        m-4,0
+        a4,4 0 1,0 8,0
+        a4,4 0 1,0 -8,0"/>
     <path
         android:fillColor="#FFFFFF"
         android:fillType="nonZero"
-        android:pathData="M64,24
-        m-5,0
-        a5,5 0 1,0 10,0
-        a5,5 0 1,0 -10,0"/>
+        android:pathData="M62,30
+        m-4,0
+        a4,4 0 1,0 8,0
+        a4,4 0 1,0 -8,0"/>
     <path
         android:fillColor="#FFFFFF"
         android:fillType="nonZero"
-        android:pathData="M74,24
-        m-5,0
-        a5,5 0 1,0 10,0
-        a5,5 0 1,0 -10,0"/>
+        android:pathData="M38,38
+        m-4,0
+        a4,4 0 1,0 8,0
+        a4,4 0 1,0 -8,0"/>
     <path
         android:fillColor="#FFFFFF"
         android:fillType="nonZero"
-        android:pathData="M34,34
-        m-5,0
-        a5,5 0 1,0 10,0
-        a5,5 0 1,0 -10,0"/>
+        android:pathData="M70,38
+        m-4,0
+        a4,4 0 1,0 8,0
+        a4,4 0 1,0 -8,0"/>
     <path
         android:fillColor="#FFFFFF"
         android:fillType="nonZero"
-        android:pathData="M84,34
-        m-5,0
-        a5,5 0 1,0 10,0
-        a5,5 0 1,0 -10,0"/>
+        android:pathData="M38,46
+        m-4,0
+        a4,4 0 1,0 8,0
+        a4,4 0 1,0 -8,0"/>
     <path
         android:fillColor="#FFFFFF"
         android:fillType="nonZero"
-        android:pathData="M24,44
-        m-5,0
-        a5,5 0 1,0 10,0
-        a5,5 0 1,0 -10,0"/>
+        android:pathData="M38,54
+        m-4,0
+        a4,4 0 1,0 8,0
+        a4,4 0 1,0 -8,0"/>
     <path
         android:fillColor="#FFFFFF"
         android:fillType="nonZero"
-        android:pathData="M24,54
-        m-5,0
-        a5,5 0 1,0 10,0
-        a5,5 0 1,0 -10,0"/>
+        android:pathData="M62,54
+        m-4,0
+        a4,4 0 1,0 8,0
+        a4,4 0 1,0 -8,0"/>
     <path
         android:fillColor="#FFFFFF"
         android:fillType="nonZero"
-        android:pathData="M64,54
-        m-5,0
-        a5,5 0 1,0 10,0
-        a5,5 0 1,0 -10,0"/>
+        android:pathData="M62,54
+        m-4,0
+        a4,4 0 1,0 8,0
+        a4,4 0 1,0 -8,0"/>
     <path
         android:fillColor="#FFFFFF"
         android:fillType="nonZero"
-        android:pathData="M74,54
-        m-5,0
-        a5,5 0 1,0 10,0
-        a5,5 0 1,0 -10,0"/>
+        android:pathData="M70,54
+        m-4,0
+        a4,4 0 1,0 8,0
+        a4,4 0 1,0 -8,0"/>
     <path
         android:fillColor="#FFFFFF"
         android:fillType="nonZero"
-        android:pathData="M84,54
-        m-5,0
-        a5,5 0 1,0 10,0
-        a5,5 0 1,0 -10,0"/>
+        android:pathData="M38,62
+        m-4,0
+        a4,4 0 1,0 8,0
+        a4,4 0 1,0 -8,0"/>
     <path
         android:fillColor="#FFFFFF"
         android:fillType="nonZero"
-        android:pathData="M24,64
-        m-5,0
-        a5,5 0 1,0 10,0
-        a5,5 0 1,0 -10,0"/>
+        android:pathData="M70,62
+        m-4,0
+        a4,4 0 1,0 8,0
+        a4,4 0 1,0 -8,0"/>
     <path
         android:fillColor="#FFFFFF"
         android:fillType="nonZero"
-        android:pathData="M84,64
-        m-5,0
-        a5,5 0 1,0 10,0
-        a5,5 0 1,0 -10,0"/>
+        android:pathData="M38,70
+        m-4,0
+        a4,4 0 1,0 8,0
+        a4,4 0 1,0 -8,0"/>
     <path
         android:fillColor="#FFFFFF"
         android:fillType="nonZero"
-        android:pathData="M34,74
-        m-5,0
-        a5,5 0 1,0 10,0
-        a5,5 0 1,0 -10,0"/>
+        android:pathData="M70,70
+        m-4,0
+        a4,4 0 1,0 8,0
+        a4,4 0 1,0 -8,0"/>
     <path
         android:fillColor="#FFFFFF"
         android:fillType="nonZero"
-        android:pathData="M84,74
-        m-5,0
-        a5,5 0 1,0 10,0
-        a5,5 0 1,0 -10,0"/>
+        android:pathData="M46,78
+        m-4,0
+        a4,4 0 1,0 8,0
+        a4,4 0 1,0 -8,0"/>
     <path
         android:fillColor="#FFFFFF"
         android:fillType="nonZero"
-        android:pathData="M44,84
-        m-5,0
-        a5,5 0 1,0 10,0
-        a5,5 0 1,0 -10,0"/>
+        android:pathData="M54,78
+        m-4,0
+        a4,4 0 1,0 8,0
+        a4,4 0 1,0 -8,0"/>
     <path
         android:fillColor="#FFFFFF"
         android:fillType="nonZero"
-        android:pathData="M54,84
-        m-5,0
-        a5,5 0 1,0 10,0
-        a5,5 0 1,0 -10,0"/>
-    <path
-        android:fillColor="#FFFFFF"
-        android:fillType="nonZero"
-        android:pathData="M64,84
-        m-5,0
-        a5,5 0 1,0 10,0
-        a5,5 0 1,0 -10,0"/>
-    <path
-        android:fillColor="#FFFFFF"
-        android:fillType="nonZero"
-        android:pathData="M74,84
-        m-5,0
-        a5,5 0 1,0 10,0
-        a5,5 0 1,0 -10,0"/>
+        android:pathData="M62,78
+        m-4,0
+        a4,4 0 1,0 8,0
+        a4,4 0 1,0 -8,0"/>
 </vector>
