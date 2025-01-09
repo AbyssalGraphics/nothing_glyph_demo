@@ -1,4 +1,4 @@
-#NOTHING Phones Glyphs simple demo
+# NOTHING Phones Glyphs simple demo
 
 
 This program plays a little animation on Nothing Phones' Glyphs.
