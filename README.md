@@ -14,9 +14,14 @@ Also, builder.buildChannel(channel: Int, light: Int) doesn't seem to be in the d
 > I've made code for all Nothing Phones, but I could only test it on the Nothing Phone (2) as it's the only one I have.
 
 > [!IMPORTANT] 
-> As described on the official git page, you must enable debugging via adb command: 
+> As described on the official git page, you must enable debugging via adb command:
+
 > `adb shell settings put global nt_glyph_interface_debug_enable 1`
+
 > I personally experience recurrent notification from Ketchum that won't go. So to disable them, I use the following commands (don't know exactly which one desactivate the debuggng):
+
 > `adb shell settings put global nt_glyph_interface_debug_enable 0`
+
 > `adb shell settings put global nt_glyph_interface_debug_disable 1`
+
 > The library was found on: https://github.com/Nothing-Developer-Programme/Glyph-Developer-Kit (The .jar files are in app/libs)
